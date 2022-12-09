@@ -1,0 +1,364 @@
+
+#first {
+    position: absolute;
+    width: 400px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    
+    background: #2F80ED;
+}
+#second {
+    background: #E5E5E5;
+}
+
+.title{
+    /* Simple Analytics */
+    position: absolute;
+    width: 208px;
+    height: 36px;
+    left: 98px;
+    top: 64px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+ul{
+    list-style: none;
+}
+
+
+.dash{
+    /* Dashboard */
+    position: absolute;
+    width: 156px;
+    height: 16px;
+    left: 101px;
+    top: 257px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.setstyle{
+    /* Settings */
+    position: absolute;
+    width: 156px;
+    height: 16px;
+    left: 100px;
+    top: 323px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.logoutstyle{
+    /* Logout */
+    position: absolute;
+    width: 156px;
+    height: 16px;
+    left: 101px;
+    top: 845px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+}
+
+.contentname{
+    /* Dashboard */
+    position: absolute;
+    width: 138px;
+    height: 36px;
+    left: 473px;
+    top: 65px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+
+
+    color: #515151;
+}
+
+.subtitle1{
+        /* Views */
+
+
+    position: absolute;
+    width: 56px;
+    height: 27px;
+    left: 473px;
+    top: 137px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #333333;
+
+}
+
+.subtitle2{
+    /* Pages*/
+    position: absolute;
+    width: 57px;
+    height: 27px;
+    left: 473px;
+    top: 360px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #333333;
+
+}
+.subtitle3{
+        /* Country/State */
+    position: absolute;
+    width: 133px;
+    height: 27px;
+    left: 473px;
+    top: 690px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #333333;
+}
+
+.box1, .box2, .box3 , .box4{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 788px;
+    height: 65px;
+    left: 482px;
+    background: #FFFFFF;
+    border: 1px solid #BDBDBD;
+}
+
+.box1{
+    top: 411px;
+}
+.box2{
+    top: 476px;
+}
+.box3{
+    top: 541px;
+}
+.box4{
+    top: 606px;
+}
+
+.box5, .box6{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 788px;
+    height: 65px;
+    left: 473px;
+    background: #FFFFFF;
+    border: 1px solid #BDBDBD;
+
+}
+.box5{
+    top: 741px;
+}
+.box6{
+    top: 806px;
+}
+
+.pack1{
+    position: absolute;
+    width: 243px;
+    height: 150px;
+    left: 473px;
+    top: 187px;
+
+    background: #333333;
+    border-radius: 25px;
+}
+
+
+.daystyle{
+        /* /day */
+
+
+    position: absolute;
+    width: 37.01px;
+    height: 18px;
+    left: 575px;
+    top: 280px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.num1{
+        /* 2500 */
+
+
+    position: absolute;
+    width: 115.95px;
+    height: 54px;
+    left: 542px;
+    top: 223px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+.position{
+    text-align: center;
+}
+.pack2{
+    position: absolute;
+    width: 227px;
+    height: 150px;
+    left: 758px;
+    top: 187px;
+    
+    background: #333333;
+    border-radius: 25px;
+}
+.num2{
+    /* 9000 */
+
+
+    position: absolute;
+    width: 108.31px;
+    height: 54px;
+    left: 827px;
+    top: 223px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+.weekstyle{
+        /* /week */
+
+
+    position: absolute;
+    width: 55.31px;
+    height: 18px;
+    left: 853px;
+    top: 281px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+.pack3{
+    position: absolute;
+    width: 227px;
+    height: 150px;
+    left: 1043px;
+    top: 185px;
+    
+    background: #333333;
+    border-radius: 25px;
+}
+
+.num3{
+    /* 23000 */
+
+
+    position: absolute;
+    width: 117px;
+    height: 54px;
+    left: 1100px;
+    top: 223px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+.monthstyle{
+    /* /month */
+
+
+    position: absolute;
+    width: 55.31px;
+    height: 18px;
+    left: 1138px;
+    top: 280px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
