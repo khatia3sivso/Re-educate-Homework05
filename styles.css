@@ -65,15 +65,14 @@ ul{
     line-height: 27px;
     color: #FFFFFF;
 }
-
-.logoutstyle{
-    /* Logout */
-    position: absolute;
-    width: 156px;
-    height: 16px;
-    left: 101px;
-    top: 845px;
-
+.logout{
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
@@ -81,6 +80,14 @@ ul{
     line-height: 27px;
 
     color: #FFFFFF;
+}
+.logoutposition{
+    
+    top: 845px;
+    position: absolute;
+    width: 156px;
+    height: 16px;
+    left: 101px;
 }
 
 .contentname{
